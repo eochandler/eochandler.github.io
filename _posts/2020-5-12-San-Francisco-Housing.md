@@ -68,7 +68,7 @@ Remember how it was mentioned that all data needs to be taken with a grain of sa
 
 ![Fig 7.](/images/pasted image 0.png)
 
-**Fig 7 **
+**Fig 7**
 
 We did not check to see if there is a mathematical correlation between the two to prove that the number of evictions is related to the cost per unit in new developments in a neighborhood though there may look to be one, but that is okay. That is not the point. What we found in our analysis is how careful you truly have to be around where you get your data from and how the inherent bias all data comes with. We could have stopped and said there is no correlation, but that would have only been telling half of the story with the data.
 
