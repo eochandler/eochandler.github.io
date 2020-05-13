@@ -36,9 +36,11 @@ Another example of a neighborhood where this has occurred is The Mission. The Mi
 
 
 ![Fig 3](/images/unnamed.png)
+
 Fig 3 Evictions by neighborhood over last two decades
 
 ![Fig 4.](/images/unnamed-2.png)
+
 Fig 4 City average with cost per development of four lowest eviction neighborhoods with mission and citywide average
 
 
@@ -51,6 +53,7 @@ What we see as data scientists is that then there is no correlation between high
 
 
 ![Fig 5.](/images/unnamed-3.png)
+
 Fig 5 Average cost of New Development in Mission, city average, and few other neighborhoods
 
 
@@ -59,9 +62,11 @@ In fact, from Fig. 5, one would argue that there must not be any divestment occu
 Remember how it was mentioned that all data needs to be taken with a grain of salt? Any SF native or individual who has lived in San Francisco for a while would tell you that there’s something else going on in The Mission that our data is not capturing. Think back to the fact of how there were fires in The Mission that were displacing people. It seems important, but how would you capture that in this data? This is one of the most important parts of relying on data without working to understand a situation- is that data can be biased and miss part of the story. Anyone’s gut could tell you something is off here. What is happening, as our data has shown, is that The Mission is an “up and coming” or “hot” neighborhood as we have seen pretty much overall an increase in the cost per unit since the tech boom. Along with that, we saw a drastic decrease in the number of evictions in the 20 years since the tech boom was really big in SF, although the eviction rates are still high. So, the proving of the increase in the average cost per unit is historically one of the tell tale signs of gentrification. It should also be noted there was a massive number of eviction rates which eventually decreased then flattened out around 2010 as seen in Fig. 6, compare this to Fig. 7 which has a decently level, even decreasing average cost per unit in new development. However, around 2010, that average cost per unit of new development started seriously increasing. 
 
 ![Fig 6.](/images/unnamed-4.png)
+
 Fig 6
 
 ![Fig 7.](/images/pasted image 0.png)
+
 Fig 7
 
 We did not check to see if there is a mathematical correlation between the two to prove that the number of evictions is related to the cost per unit in new developments in a neighborhood though there may look to be one, but that is okay. That is not the point. What we found in our analysis is how careful you truly have to be around where you get your data from and how the inherent bias all data comes with. We could have stopped and said there is no correlation, but that would have only been telling half of the story with the data.
