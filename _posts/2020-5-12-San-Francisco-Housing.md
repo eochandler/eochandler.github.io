@@ -3,9 +3,7 @@ layout: post
 title: San Francisco Housing Evictions and Divestment
 ---
 # Permits and Evictions in San Francisco Neighborhoods
-
-
-### Is there any correlation between neighborhoods with higher eviction rates and divestment?
+## Is there any correlation between neighborhoods with higher eviction rates and divestment?
 
 
 It is known that the Bay Area in general has been rapidly developing with a tech boom in the past twenty years or so. What started mostly in San Francisco has spread to a rise in cost of living all throughout the Bay Area, making San Francisco specifically now the most expensive city in the US. This means a large number of new permits for development in the city in response to a massive influx of “outsiders” as any SF born and raised individual could tell you. However, what is not always touched upon as well when looking at the development of SF is the rate of peoples being displaced. San Fransicos is notorious for having a large number of individuals experiencing homeslessness and there is a lot of talk around how this is related to the tech boom, rapid development pricing people out, displacement and gentrification. One of key tools that allows for these things is evictions. Therefore, it is worth exploring the intersection of data around permits in SF and data around evictions in SF to see if there are consistencies with neighborhoods that face massive rates of eviction as well as divestment. 
