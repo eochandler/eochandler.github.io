@@ -15,7 +15,8 @@ To look at divestment and evictions, let's first discuss those words and how we 
 
 
 ![Fig 1](/images/SanFranciscoHeatMap.png)
-⋅⋅* Fig 1 Growth as measured by cost of new developments over the last two decades
+Fig 1 Growth as measured by cost of new developments over the last two decades
+⋅⋅* Unordered sub-list.
 
 
 It should also be noted that this graph only goes up to 500 million to keep it easily interpretable, but that anything over 500 million is just capped at that number and grouped into that category. As this figure shows, there has been a large amount of growth. However, it can be noticed that there are some more concentrated areas, notably it appears to be “centered” around the downtown area of SF. This makes sense as many businesses came in, and then with an influx of people, people would want to live close to their work. But this just shows big concentrations of wealth. So another way to look at the money being poured into SF is in Fig. 2 below. 
