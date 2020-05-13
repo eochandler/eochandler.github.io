@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Permits and Evictions in San Francisco Neighborhoods
+By: Annika Cowen, Elijah Chandler, Quinn Alfaro
 ---
 ### Is there any correlation between neighborhoods with higher eviction rates and divestment?
 
