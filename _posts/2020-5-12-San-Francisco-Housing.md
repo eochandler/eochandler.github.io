@@ -15,14 +15,14 @@ To look at divestment and evictions, let's first discuss those words and how we 
 
 
 ![Fig 1](/images/SanFranciscoHeatMap.png)
-Fig 1 Growth as measured by cost of new developments over the last two decades
+**Fig 1 Growth as measured by cost of new developments over the last two decades**
 
 
 It should also be noted that this graph only goes up to 500 million to keep it easily interpretable, but that anything over 500 million is just capped at that number and grouped into that category. As this figure shows, there has been a large amount of growth. However, it can be noticed that there are some more concentrated areas, notably it appears to be “centered” around the downtown area of SF. This makes sense as many businesses came in, and then with an influx of people, people would want to live close to their work. But this just shows big concentrations of wealth. So another way to look at the money being poured into SF is in Fig. 2 below. 
 
 
 ![Fig 2](/images/Average_Cost_per_UnitSanFrancisco.png)
-Fig 2 Average cost of new unit by neighborhood over last two decades
+**Fig 2 Average cost of new unit by neighborhood over last two decades**
 
 
 Fig. 2 depicts the average cost of a new unit per neighborhood in the past two decades. There are some neighborhoods that are more expensive than others, Chinatown being much less expensive compared to other neighborhoods, but besides this point, there is a smooth curve in the increasing prices over the past two decades for the neighborhoods of SF. For one part of the explanation on why Chinatown has such a difference in living expenses, [check out this article](https://www.sfchronicle.com/bayarea/article/Families-live-jammed-into-Chinatown-rooms-with-6663902.php).
@@ -37,11 +37,11 @@ Another example of a neighborhood where this has occurred is The Mission. The Mi
 
 ![Fig 3](/images/unnamed.png)
 
-Fig 3 Evictions by neighborhood over last two decades
+**Fig 3 Evictions by neighborhood over last two decades**
 
 ![Fig 4.](/images/unnamed-2.png)
 
-Fig 4 City average with cost per development of four lowest eviction neighborhoods with mission and citywide average
+**Fig 4 City average with cost per development of four lowest eviction neighborhoods with mission and citywide average**
 
 
 So, from these graphs, it does! Fig. 3 shows that The Mission’s eviction rate compared to that of other neighborhoods is significantly higher. We do want to mention that we did not calculate this as an average of the number of people in each neighborhood, so it is not completely accurate because there was no easy dataset that had the population per neighborhood. However, that being said, this is still shocking! That is a major difference. Fig. 4 how many evictions per year for The Mission compared to some of the neighborhoods with the lowest eviction rates. This shows a few things. First, it shows the disparity of evictions between those neighborhoods with high vs low evictions rates, i.e. showing these rates are nowhere near close. This then poses the question of could this be proportionate? Especially when you look at how for the other four neighborhoods that are not The Mission on Fig. 4, there is not much fluctuation in their numbers of evictions while the trend line of The Mission does not seem to level out until much closer to 2020. That's strange, why is it so different? The lack of “up and down” in the other four neighborhoods also brings us to the next point of why did The Mission’s trend line fluctuate so much? Why did it get normal? This is also strange because as you can see with other trend lines, it's not normal to move up and down that much. 
@@ -54,7 +54,7 @@ What we see as data scientists is that then there is no correlation between high
 
 ![Fig 5.](/images/unnamed-3.png)
 
-Fig 5 Average cost of New Development in Mission, city average, and few other neighborhoods
+**Fig 5 Average cost of New Development in Mission, city average, and few other neighborhoods**
 
 
 In fact, from Fig. 5, one would argue that there must not be any divestment occuring in the city as it is able to charge more than the average cost per unit, so this could mean there is a lot of “money flowing” in The Mission? Fig. 5 shows us that there are new developments going in, so it would appear that The Mission is not being abandoned, i.e. there is no disinvestment. Along with that, Fig. 1 shows us that the cost per unit of new development in The Mission is not necessarily noteworthy. So this would mean that we could come to the conclusion that in the case study example of The Mission we have been exploring, while there are high eviction rates, there is also a high cost per unit in new developments. But something still seems to be off, how can a neighborhood be charging so much for cost per unit, which did increase for a while even before decreasing again, while still having disproportionately high eviction rates compared to other neighborhoods? Why does it feel like we are missing something?
@@ -63,11 +63,11 @@ Remember how it was mentioned that all data needs to be taken with a grain of sa
 
 ![Fig 6.](/images/unnamed-4.png)
 
-Fig 6
+**Fig 6**
 
 ![Fig 7.](/images/pasted image 0.png)
 
-Fig 7
+**Fig 7 **
 
 We did not check to see if there is a mathematical correlation between the two to prove that the number of evictions is related to the cost per unit in new developments in a neighborhood though there may look to be one, but that is okay. That is not the point. What we found in our analysis is how careful you truly have to be around where you get your data from and how the inherent bias all data comes with. We could have stopped and said there is no correlation, but that would have only been telling half of the story with the data.
 
