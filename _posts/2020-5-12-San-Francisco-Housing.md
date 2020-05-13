@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Permits and Evictions in San Francisco: Annika Cowen, Elijah Chandler, Quinn Alfaro
-
-
+title: Permits and Evictions in San Francisco
 ---
 ### Is there any correlation between neighborhoods with higher eviction rates and divestment?
 
@@ -77,4 +75,17 @@ We did not check to see if there is a mathematical correlation between the two t
 What we feel happened and would like to further explore is that at present we are in the middle of a shift in the population of The Mission. We as students who spend time in SF feel we know this intuitively, but to prove this we would look at the race, income level and education level of residents in The Mission. Along with that, we would look at the specific locations in the mission that these different parts of people's identities resided in. We would look at these factors as those have historically been variables used to identify gentrification in major cities. Along with that, looking at an individual's whole identity helps describe “the whole story” the data is telling. This was not done in the dataset provided by the SFData we used. Along with that, in light of all the shelter in place ordinances in SF due to COVID-19, there have been differences in policing based on parts of people's identities such as race, income level and education level just to name a few variables. This can be depicted in the photos below. 
 
 ![Fig 8.](/images/unnamed.jpg)
+**Fig 8**
+![Fig 9.](/images/unnamed-2.jpg)
+**Fig 9**
+
+
+Fig. 8 shows the difference between two places of gathering in The Mission. The photo on the left is at Mission Dolores Park, a park that was much smaller and usually only visited by the neighboring LatinX individuals until a [massive reconstruction](https://en.m.wikipedia.org/wiki/Mission_Dolores_Park#History) of the park in 2014, which correlates to the change in cost per unit per new development in The Mission. Now, the population tends to be a lot more diverse, but more white as the residents in the  nearby area have become more white. The photo shows people [during the pandemic at Dolores Park](https://missionlocal.org/2020/05/dolores-park-fills-up-late-friday-while-a-ucsf-town-hall-warns-of-the-dangers/) disobeying the shelter in place. The second photo shows the 24th Bart station, a place historically where many low income people of color have spent time for many years. Yet the [24th Bart station](https://missionlocal.org/2020/04/barriers-go-up-at-16th-and-24th-bart-plazas-to-enforce-social-distancing/) is fenced off. More so, in Fig. 9, you can see police [handing out masks](https://mobile.twitter.com/sheriffsf/status/1256664391270797312) to individuals at Dolores Park. 
+
+Because we see real life examples of what appear to be disparities happening in The Mission that also appear to reinforce the rhetoric of displacement occurring, we would want to further build on our study and look to see if there is a positive mathematical correlation to prove gentrification using the variables we mentioned such as race, income level, and education level as a starting place, then look to add others, as well as looking for a mathematical correlation between the eviction rates and the cost per unit per new development that we suspect in The Mission.
+
+To be able to show up for equity in our community, we need to first be able to see where the disparities are. If we are able to trace them with numbers, it can help to paint a big picture to work to change legislature, local policy, and hopefully the way data is collected.
+
+
+# By Annika Cowen, Elijah Chandler, Quinn Alfaro
 
